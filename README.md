@@ -1,5 +1,5 @@
 # Parcial-Compiladores
-##Integrantes:
+## Integrantes:
 - Díaz Aguirre, Milagros Gabriela (u202110587)
 - Aragón Flores, María Laura (u202013882)
 - 
