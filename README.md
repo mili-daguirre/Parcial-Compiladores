@@ -3,7 +3,7 @@
 - Díaz Aguirre, Milagros Gabriela (u202110587)
 - Aragón Flores, María Laura (u202013882)
 - Favio Enrique Arroyo Gamarra (u20222083)
-- 
+  
 # Problema
 
 En los ámbitos de la educación, a menudo se requiere una solución ágil, confiable y fácil de entender para trabajar con operaciones matemáticas. Los lenguajes de programación convencionales como Python, Java o C++ pueden resultar demasiado complicados para tareas elementales como:
