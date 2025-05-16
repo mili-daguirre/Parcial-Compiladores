@@ -38,6 +38,6 @@ Diseñar e implementar un **lenguaje interpretado** para la evaluación de expre
 - ✅ Construir un caso de prueba funcional, incluyendo un archivo de entrada (`input.txt`) con instrucciones representativas del lenguaje.
 - ✅ Documentar el proceso de desarrollo, incluyendo el diseño de la gramática, pruebas realizadas y resultados obtenidos.
 
-#Gramatica en ANTLR4
+# Gramatica en ANTLR4
 ![image](https://github.com/user-attachments/assets/251fb29b-fad8-4c68-bdd9-a6b25f51185c)
 
