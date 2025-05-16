@@ -2,6 +2,7 @@
 ## Integrantes:
 - Díaz Aguirre, Milagros Gabriela (u202110587)
 - Aragón Flores, María Laura (u202013882)
+- Favio Enrique Arroyo Gamarra (u20222083)
 - 
 # Problema
 
